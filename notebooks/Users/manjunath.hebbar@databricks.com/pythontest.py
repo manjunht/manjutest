@@ -1,5 +1,5 @@
 # Databricks notebook source
-import paramiko
+import smtplib
 
 # COMMAND ----------
 
